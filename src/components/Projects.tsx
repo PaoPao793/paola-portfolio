@@ -4,7 +4,7 @@ export default function Projects() {
   const projectData = [
     {
       title: "Portfolio website",
-      language: "Next.js",
+      language: "Typescript",
       description: "Portfolio website built using Next.js. Mobile responsive",
       image: "/projects/website.png",
       link: "./",              
@@ -24,22 +24,20 @@ export default function Projects() {
       link: "https://github.com/PaoPao793/ActivityTracker",              
     }, 
     {
+      title: "Previous Hackthon Projects",
+      language: "Various",
+      description: "See my devpost where my previous projects are displayed",
+      image: "/projects/devpost_photo.png",
+      link: "https://devpost.com/paola-ha-2021",              
+    }, 
+    {
       title: "Zenith Habits",
       language: "Dart",
-      description: "Habit tracking app built using Flutter and Dart. Cross-functional and has features like habit tracking, journaling, mood tracking, etc",
+      description: "Habit tracking app built using Flutter and Dart. Cross-functional and has features like habit tracking, journaling, and mood tracking.",
       image: "logo",
       link: "./",              
     },
-    {
-      title: "Previous Hackthon Project",
-      language: "Various",
-      description: "Click to see the devpost where I display my hackthon projects",
-      image: "logo",
-      link: "https://devpost.com/paola-ha-2021",              
-    },  
   ];
-
-  
 
   return (
     <div className="min-h-screen flex flex-col">
