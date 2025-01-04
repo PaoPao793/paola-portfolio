@@ -29,8 +29,17 @@ export default function Projects() {
       description: "Habit tracking app built using Flutter and Dart. Cross-functional and has features like habit tracking, journaling, mood tracking, etc",
       image: "logo",
       link: "./",              
-    }, 
+    },
+    {
+      title: "Previous Hackthon Project",
+      language: "Various",
+      description: "Click to see the devpost where I display my hackthon projects",
+      image: "logo",
+      link: "https://devpost.com/paola-ha-2021",              
+    },  
   ];
+
+  
 
   return (
     <div className="min-h-screen flex flex-col">
