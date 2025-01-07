@@ -5,7 +5,7 @@ export default function Projects() {
     {
       title: "Portfolio website",
       language: "Typescript",
-      description: "Portfolio website built using Next.js. Mobile responsive",
+      description: "Portfolio website built using Next.js and deployed using Vercel",
       image: "/projects/website.png",
       link: "./",              
     }, 
@@ -33,9 +33,9 @@ export default function Projects() {
     {
       title: "Zenith Habits",
       language: "Dart",
-      description: "Habit tracking app built using Flutter and Dart. Cross-functional and has features like habit tracking, journaling, and mood tracking.",
-      image: "logo",
-      link: "./",              
+      description: "Cross-platform habit tracking app built using Flutter and Dart. Includes features like habit tracking, journaling, and mood tracking.",
+      image: "/projects/zenith_habits_log_in.jpeg",
+      link: "/",              
     },
   ];
 
