@@ -15,7 +15,7 @@ export default function Home() {
         >
           <div className="absolute top-1/4 left-5 md:left-20 text-center md:text-left">
             <h1 className="text-4xl md:text-6xl font-bold font-serif text-white">Paola Hernandez Aguirre</h1>
-            <p className="text-md md:text-lg mt-4 font-sans text-white">CS 2025 @ UMD | ACES Office Assistant </p>
+            <p className="text-md md:text-lg mt-4 font-sans text-white">Recent CS grad @ UMD</p>
           </div>
         </section>
       </div>

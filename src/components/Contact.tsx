@@ -23,7 +23,7 @@ export default function Contact() {
                 src: "/contact_icons/location-icon.png",
                 alt: "Location Icon",
                 label: "Based in:",
-                text: "College Park, MD",
+                text: "Elkridge, MD",
               },
               {
                 src: "/contact_icons/mail-icon.png",

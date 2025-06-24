@@ -21,7 +21,7 @@ export default function About() {
                     <div className="flex flex-col md:flex-row items-center md:items-start text-center md:text-left space-y-6 md:space-y-0">
                         <div className="md:mr-8 flex-shrink-0 text-center">
                             <Image
-                                src="/prof_photo.jpg"
+                                src="/prof2.png"
                                 alt="Profile Picture"
                                 width={200}
                                 height={200}
@@ -35,16 +35,17 @@ export default function About() {
                                 About me:
                             </p>
                             <p className="text-left text-lg sm:text-lg leading-relaxed">
-                            Born and raised in the vibrant city of Guanajuato, Mexico, I moved to Maryland, USA, in 2011. 
+                            I was born and raised in Guanajuato, Mexico, I moved to Maryland, USA, in 2011. 
                             I am now a senior at the University of Maryland, College Park, pursuing a degree in computer 
                             science with a minor in linguistics. My academic journey has fueled my passion for technology 
                             and language, blending the structure of code with the intricacies of human communication.
                             </p>
 
                             <p className="text-left text-lg sm:text-lg leading-relaxed">
-                            I am particularly drawn to front-end and full-stack development, where creativity meets 
-                            functionality to create engaging and intuitive user experiences. Beyond coding, I enjoy 
-                            exploring the world through books, scenic walks, and the challenge of solving intricate 
+                            I am drawn to full-stack development, where creativity meets 
+                            functionality to create engaging and intuitive user experiences. I particularly enjoy creating the logic and 
+                            making sure that an idea is able to come to life. 
+                            Beyond coding, I enjoy exploring the world through books, scenic walks, and the challenge of solving intricate 
                             jigsaw puzzles—activities that keep my problem-solving skills sharp and my imagination alive.
                             </p>
 

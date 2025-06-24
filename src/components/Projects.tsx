@@ -24,19 +24,27 @@ export default function Projects() {
       link: "https://github.com/PaoPao793/ActivityTracker",              
     }, 
     {
-      title: "Previous Hackthon Projects",
-      language: "Various",
-      description: "See my devpost where my previous projects are displayed",
-      image: "/projects/devpost_photo.png",
-      link: "https://devpost.com/paola-ha-2021",              
-    }, 
-    {
       title: "Zenith Habits",
       language: "Dart",
       description: "Cross-platform habit tracking app built using Flutter and Dart. Includes features like habit tracking, journaling, and mood tracking.",
       image: "/projects/zenith_habits_log_in.jpeg",
-      link: "/",              
+      link: "https://github.com/PaoPao793/Zenith-Habits",              
     },
+    {
+      title: "Budget App",
+      language: "HTML/CSS",
+      description: "This project is a prototype for a budgeting app that helps users manually manage their finances by setting budget and savings goals, tracking expenses and income, and reviewing financial trends.",
+      image: "/projects/budget_app_home.png",
+      link: "https://github.com/PaoPao793/budgetapp",              
+    },
+    {
+      title: "Previous Hackthon Projects",
+      language: "",
+      description: "See my devpost where previous hackathon projects are displayed",
+      image: "/projects/devpost_photo.png",
+      link: "https://devpost.com/paola-ha-2021",              
+    }, 
+    
   ];
 
   return (
